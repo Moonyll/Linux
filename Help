@@ -1,0 +1,24 @@
+ls : afficher liste
+
+Afficher le contenu du dossier courant : ls -
+
+
+ex3 Afficher le contenu du dossier courant avec les fichiers cachés :
+ls -a
+
+ex4 Afficher le contenu du dossier courant version longue sans les fichiers cachés :
+ls -l
+
+ex5 Afficher le contenu du dossier courant version longue avec les fichiers cachés :
+ls - Al
+
+ex6 Afficher le chemin du dossier courant :
+pwd
+
+ex7 Se déplacer dans le dossier Documents :
+cd ./Documents
+
+ex8 Afficher le contenu de ce dossier :
+ls
+
+
